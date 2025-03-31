@@ -96,6 +96,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |  `androidstudio`   | <img src="./icons/AndroidStudio-Dark.svg" width="48"> |
 |     `angular`      |    <img src="./icons/Angular-Dark.svg" width="48">    |
 |     `ansible`      |      <img src="./icons/Ansible.svg" width="48">       |
+|       `antd`       |   <img src="./icons/AntDesign-Dark.svg" width="48">   |
 |      `apollo`      |       <img src="./icons/Apollo.svg" width="48">       |
 |      `apple`       |     <img src="./icons/Apple-Dark.svg" width="48">     |
 |     `appwrite`     |      <img src="./icons/Appwrite.svg" width="48">      |
@@ -130,7 +131,9 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |       `css`        |        <img src="./icons/CSS.svg" width="48">         |
 |     `cypress`      |    <img src="./icons/Cypress-Dark.svg" width="48">    |
 |        `d3`        |      <img src="./icons/D3-Dark.svg" width="48">       |
+|     `dailydev`     |      <img src="./icons/DailyDev.svg" width="48">      |
 |       `dart`       |     <img src="./icons/Dart-Dark.svg" width="48">      |
+|      `dbeaver`     |    <img src="./icons/DBeaver-Dark.svg" width="48">    |
 |      `debian`      |    <img src="./icons/Debian-Dark.svg" width="48">     |
 |       `deno`       |     <img src="./icons/DENO-Dark.svg" width="48">      |
 |      `devto`       |     <img src="./icons/DevTo-Dark.svg" width="48">     |
@@ -209,6 +212,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |      `maven`       |     <img src="./icons/Maven-Dark.svg" width="48">     |
 |       `mint`       |     <img src="./icons/Mint-Dark.svg" width="48">      |
 |     `misskey`      |    <img src="./icons/Misskey-Dark.svg" width="48">    |
+|      `monday`      |    <img src="./icons/Monday-Dark.svg" width="48">     |
 |     `mongodb`      |      <img src="./icons/MongoDB.svg" width="48">       |
 |      `mysql`       |     <img src="./icons/MySQL-Dark.svg" width="48">     |
 |      `neovim`      |    <img src="./icons/NeoVim-Dark.svg" width="48">     |
@@ -256,6 +260,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |   `raspberrypi`    |  <img src="./icons/RaspberryPi-Dark.svg" width="48">  |
 |      `react`       |     <img src="./icons/React-Dark.svg" width="48">     |
 |    `reactivex`     |   <img src="./icons/ReactiveX-Dark.svg" width="48">   |
+|       `rrd`        | <img src="./icons/ReactRouterDom-Dark.svg" width="48">|
 |      `redhat`      |    <img src="./icons/RedHat-Dark.svg" width="48">     |
 |      `redis`       |     <img src="./icons/Redis-Dark.svg" width="48">     |
 |      `redux`       |       <img src="./icons/Redux.svg" width="48">        |
@@ -293,6 +298,8 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |    `tensorflow`    |  <img src="./icons/TensorFlow-Dark.svg" width="48">   |
 |    `terraform`     |   <img src="./icons/Terraform-Dark.svg" width="48">   |
 |     `threejs`      |    <img src="./icons/ThreeJS-Dark.svg" width="48">    |
+|     `traeia`       |       <img src="./icons/TraeIA.svg" width="48">       |
+|     `trello`       |     <img src="./icons/Trello-Dark.svg" width="48">    |
 |     `twitter`      |      <img src="./icons/Twitter.svg" width="48">       |
 |        `ts`        |     <img src="./icons/TypeScript.svg" width="48">     |
 |      `ubuntu`      |    <img src="./icons/Ubuntu-Dark.svg" width="48">     |
@@ -315,8 +322,10 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |     `webstorm`     |   <img src="./icons/WebStorm-Dark.svg" width="48">    |
 |     `windicss`     |   <img src="./icons/WindiCSS-Dark.svg" width="48">    |
 |     `windows`      |    <img src="./icons/Windows-Dark.svg" width="48">    |
+|    `windsurf`      |      <img src="./icons/Windsurf.svg" width="48">      |
 |    `wordpress`     |     <img src="./icons/Wordpress.svg" width="48">      |
 |     `workers`      |    <img src="./icons/Workers-Dark.svg" width="48">    |
+|      `xampp`       |       <img src="./icons/Xampp.svg" width="48">        |
 |        `xd`        |         <img src="./icons/XD.svg" width="48">         |
 |       `yarn`       |     <img src="./icons/Yarn-Dark.svg" width="48">      |
 |       `yew`        |      <img src="./icons/Yew-Dark.svg" width="48">      |
