@@ -42,7 +42,7 @@ const shortNames = {
   ghactions: 'githubactions',
   sklearn: 'scikitlearn',
   rrd: 'reactrouterdom',
-  ant: 'antdesign'
+  antd: 'antdesign'
 };
 const themedIcons = [
   ...Object.keys(icons)
